@@ -1,0 +1,312 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "/images/prideandprejudice.jpeg",
+      "genre": "Romance",
+      "short_description": "Pride and Prejudice is a romantic novel by Jane Austen.",
+      "long_description": "Pride and Prejudice follows the character development of Elizabeth Bennet, the dynamic protagonist of the book, who learns about the repercussions of hasty judgments and eventually comes to appreciate the difference between superficial goodness and actual goodness.",
+      "page_count": 279,
+      "publication_year": 1813
+    },
+    {
+      "id": "2",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "image": "/images/harrypotter.jpg",
+      "genre": "Fantasy",
+      "short_description": "The first book in the Harry Potter series.",
+      "long_description": "Harry Potter and the Philosopher's Stone (released in the United States as Harry Potter and the Sorcerer's Stone) follows the journey of a young wizard, Harry Potter, who discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+      "page_count": 320,
+      "publication_year": 1997
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "/images/thegreatgatsby.jpeg",
+      "genre": "Romance",
+      "short_description": "The Great Gatsby is a novel by F. Scott Fitzgerald.",
+      "long_description": "The Great Gatsby explores themes of decadence, idealism, resistance to change, social upheaval, and excess, creating a portrait of the Jazz Age or the Roaring Twenties that has been described as a cautionary tale regarding the American Dream.",
+      "page_count": 180,
+      "publication_year": 1925
+    },
+    {
+      "id": "4",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "/images/thehobbit.jpeg",
+      "genre": "Fantasy",
+      "short_description": "The Hobbit is a fantasy adventure novel by J.R.R. Tolkien.",
+      "long_description": "The Hobbit follows the quest of home-loving hobbit Bilbo Baggins who is swept into an epic journey to reclaim the lost Dwarf Kingdom of Erebor.",
+      "page_count": 310,
+      "publication_year": 1937
+    },
+    {
+      "id": "5",
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "/images/1984.jpg",
+      "genre": "Fiction",
+      "short_description": "1984 is a dystopian novel by George Orwell.",
+      "long_description": "1984 presents a terrifying vision of a totalitarian future in which individuality is crushed, and thought control is enforced by the ever-watchful Big Brother.",
+      "page_count": 328,
+      "publication_year": 1949
+    },
+    {
+      "id": "6",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "images/Bcravenewworld.jpg",
+      "genre": "Fiction",
+      "short_description": "Brave New World is a dystopian novel by Aldous Huxley.",
+      "long_description": "Brave New World presents a future society in which human beings are mass-produced and conditioned for lives in a rigid caste system.",
+      "page_count": 288,
+      "publication_year": 1932
+    },
+    {
+      "id": "7",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "/images/tokillamockingbird.jpg",
+      "genre": "Fiction",
+      "short_description": "To Kill a Mockingbird is a novel by Harper Lee.",
+      "long_description": "To Kill a Mockingbird explores themes of racial injustice and the destruction of innocence.",
+      "page_count": 281,
+      "publication_year": 1960
+    },
+    {
+      "id": "8",
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "image": "/images/gonewiththewind.jpeg",
+      "genre": "Fiction",
+      "short_description": "Gone with the Wind is a novel by Margaret Mitchell.",
+      "long_description": "Gone with the Wind depicts the struggles of young Scarlett O'Hara, the spoiled daughter of a well-to-do plantation owner, who must use every means at her disposal to claw her way out of poverty following the collapse of the Confederacy.",
+      "page_count": 1037,
+      "publication_year": 1936
+    },
+    {
+      "id": "9",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "image": "/images/tevejobs.jpeg",
+      "genre": "Biography",
+      "short_description": "Steve Jobs is a biography by Walter Isaacson.",
+      "long_description": "Steve Jobs chronicles the rollercoaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.",
+      "page_count": 627,
+      "publication_year": 2011
+    },
+    {
+      "id": "10",
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "image": "/images/thediaryofayounggirl.jpeg",
+      "genre": "Biography",
+      "short_description": "The Diary of a Young Girl is a book by Anne Frank.",
+      "long_description": "The Diary of a Young Girl is the record of two years in the life of a remarkable Jewish girl whose triumphant humanity in the face of unfathomable deprivation and fear has made the book one of the most enduring documents of our time.",
+      "page_count": 283,
+      "publication_year": 1947
+    },
+    {
+      "id": "11",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "/images/thelordoftherings.jpeg",
+      "genre": "Fantasy",
+      "short_description": "The Lord of the Rings is an epic fantasy novel by J.R.R. Tolkien.",
+      "long_description": "The Lord of the Rings tells the story of a young hobbit named Frodo Baggins who sets out on a quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "page_count": 1178,
+      "publication_year": 1954
+    },
+    {
+      "id": "12",
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "image": "/images/agameofthrones.jpeg",
+      "genre": "Fantasy",
+      "short_description": "A Game of Thrones is the first novel in the A Song of Ice and Fire series.",
+      "long_description": "A Game of Thrones follows several noble houses as they vie for control of the Iron Throne of the Seven Kingdoms.",
+      "page_count": 694,
+      "publication_year": 1996
+    },
+    {
+      "id": "13",
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "image": "/images/thehngergames.jpeg",
+      "genre": "Fiction",
+      "short_description": "The Hunger Games is a dystopian novel by Suzanne Collins.",
+      "long_description": "The Hunger Games takes place in a dystopian future in the nation of Panem, where the Capitol selects a boy and girl from the twelve districts to fight to the death on live television.",
+      "page_count": 374,
+      "publication_year": 2008
+    },
+    {
+      "id": "14",
+      "title": "Jurassic Park",
+      "author": "Michael Crichton",
+      "image": "/images/jurassicpark.webp",
+      "genre": "Fiction",
+      "short_description": "Jurassic Park is a science fiction novel by Michael Crichton.",
+      "long_description": "Jurassic Park tells the story of a cloned dinosaur park created by billionaire John Hammond.",
+      "page_count": 400,
+      "publication_year": 1990
+    },
+    {
+      "id": "15",
+      "title": "The Velveteen Rabbit",
+      "author": "Margery Williams",
+      "image": "/images/thevelveteenrabbit.webp",
+      "genre": "Children's",
+      "short_description": "The Velveteen Rabbit is a children's book by Margery Williams.",
+      "long_description": "The Velveteen Rabbit is a children's novel written by Margery Williams and illustrated by William Nicholson. The book was first published in 1922.",
+      "page_count": 40,
+      "publication_year": 1922
+    },
+    {
+      "id": "16",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "image": "/images/senseandsensibility.jpeg",
+      "genre": "Romance",
+      "short_description": "Sense and Sensibility is a romantic novel by Jane Austen.",
+      "long_description": "Sense and Sensibility follows the romantic trials and tribulations of the Dashwood sisters, Elinor and Marianne, after they are forced to leave their home following the death of their father.",
+      "page_count": 409,
+      "publication_year": 1811
+    },
+    {
+      "id": "17",
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "image": "/images/romeoandjuliet.jpg",
+      "genre": "Romance",
+      "short_description": "Romeo and Juliet is a tragedy by William Shakespeare.",
+      "long_description": "Romeo and Juliet follows the story of two young star-crossed lovers whose deaths ultimately reconcile their feuding families.",
+      "page_count": 290,
+      "publication_year": 1597
+    },
+    {
+      "id": "18",
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "image": "/images/whrethewild.webp",
+      "genre": "Children's",
+      "short_description": "Where the Wild Things Are is a children's book by Maurice Sendak.",
+      "long_description": "Where the Wild Things Are is a 1963 children's picture book by American writer and illustrator Maurice Sendak. The story follows Max, a young boy who, after dressing in his wolf costume, wreaks havoc through his household.",
+      "page_count": 37,
+      "publication_year": 1963
+    },
+    {
+      "id": "19",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "image": "/images/thebookthier.jpg",
+      "genre": "Fiction",
+      "short_description": "The Book Thief is a historical novel by Markus Zusak.",
+      "long_description": "The Book Thief is set in Nazi Germany and tells the story of a young girl named Liesel who is sent to live with a foster family and develops a love of books.",
+      "page_count": 552,
+      "publication_year": 2005
+    },
+    {
+      "id": "20",
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "image": "/images/theveryhungrycateppillar.jpg",
+      "genre": "Children's",
+      "short_description": "The Very Hungry Caterpillar is a children's book by Eric Carle.",
+      "long_description": "The Very Hungry Caterpillar is a children's picture book designed, illustrated, and written by Eric Carle, first published by the World Publishing Company in 1969.",
+      "page_count": 26,
+      "publication_year": 1969
+    },
+    {
+      "id": "21",
+      "title": "Benjamin Franklin: An American Life",
+      "author": "Walter Isaacson",
+      "image": "/images/banjaminfranklin.jpg",
+      "genre": "Biography",
+      "short_description": "Benjamin Franklin: An American Life is a biography by Walter Isaacson.",
+      "long_description": "Benjamin Franklin: An American Life explores the life and achievements of one of America's founding fathers, Benjamin Franklin.",
+      "page_count": 590,
+      "publication_year": 2003
+    },
+    {
+      "id": "22",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image": "/images/doriagray.jpg",
+      "genre": "Fiction",
+      "short_description": "The Picture of Dorian Gray is a novel by Oscar Wilde.",
+      "long_description": "The Picture of Dorian Gray tells the story of a young man named Dorian Gray who becomes the subject of a painting by artist Basil Hallward.",
+      "page_count": 251,
+      "publication_year": 1890
+    },
+    {
+      "id": "23",
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "image": "/images/thecatinthehat.webp",
+      "genre": "Children's",
+      "short_description": "The Cat in the Hat is a children's book by Dr. Seuss.",
+      "long_description": "The Cat in the Hat is about a tall, anthropomorphic cat who wears a red and white-striped hat and a red bow tie. He also carries a red-and-white-striped umbrella.",
+      "page_count": 61,
+      "publication_year": 1957
+    },
+    {
+      "id": "24",
+      "title": "Charlotte 's Web",
+      "author": "E.B. White",
+      "image": "/images/charlotte'sweb.jpg",
+      "genre": "Children's",
+      "short_description": "Charlotte's Web is a children's novel by E.B. White.",
+      "long_description": "Charlotte's Web is the story of a pig named Wilbur and his friendship with a barn spider named Charlotte.",
+      "page_count": 184,
+      "publication_year": 1952
+    },
+    {
+      "id": "25",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "image": "/images/theroad.jpeg",
+      "genre": "Fiction",
+      "short_description": "The Road is a novel by Cormac McCarthy.",
+      "long_description": "The Road follows a father and his young son as they journey across a post-apocalyptic landscape in search of safety and a better life.",
+      "page_count": 287,
+      "publication_year": 2006
+    },
+    {
+      "id": "26",
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "image": "/images/matilda.jpg",
+      "genre": "Children's",
+      "short_description": "Matilda is a children's novel by Roald Dahl.",
+      "long_description": "Matilda is about a young girl named Matilda Wormwood who possesses extraordinary intelligence and psychokinetic powers.",
+      "page_count": 240,
+      "publication_year": 1988
+    },
+    {
+      "id": "27",
+      "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "image": "/images/narnia.jpg",
+      "genre": "Children's",
+      "short_description": "The first book in The Chronicles of Narnia series.",
+      "long_description": "The Lion, the Witch and the Wardrobe is a fantasy novel by C.S. Lewis and is the first published and best known of seven novels in The Chronicles of Narnia series.",
+      "page_count": 206,
+      "publication_year": 1950
+    },
+    {
+      "id": "28",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "/images/thealchemist.jpeg",
+      "genre": "Fiction",
+      "short_description": "The Alchemist is a novel by Paulo Coelho.",
+      "long_description": "The Alchemist follows the journey of a young Andalusian shepherd named Santiago who travels from his homeland in Spain to the Egyptian desert in search of a treasure buried in the Pyramids.",
+      "page_count": 197,
+      "publication_year": 1988
+    }
+  ]
+}
